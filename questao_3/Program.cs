@@ -39,23 +39,30 @@ class Program
             new { dia = 30, valor = 8414.61 }
         };
 
+
         var faturamentoPositivo = faturaDiario.Where(d => d.valor > 0).ToArray();
 
-        // Menor valor de faturamento
+       
+        foreach (var dia in faturamentoPositivo)
+        {
+            Console.WriteLine($"Dia: {dia.dia}, Faturamento: {dia.valor}");
+        }
+
+       
         var menorValor = faturamentoPositivo.Min(d => d.valor);
 
-        // Maior valor de faturamento
+       
         var maiorValor = faturamentoPositivo.Max(d => d.valor);
 
-        // Média mensal de faturamento
+        
         var mediaMensal = faturamentoPositivo.Average(d => d.valor);
 
-        // Número de dias com faturamento superior à média mensal
+        
         var diasAcimaDaMedia = faturamentoPositivo.Count(d => d.valor > mediaMensal);
 
-        // Exibindo os resultados
-        Console.WriteLine($"Menor valor de faturamento: {menorValor:F2}");
-        Console.WriteLine($"Maior valor de faturamento: {maiorValor:F2}");
+      
+        Console.WriteLine($"Menor valor de faturamento: {menorValor}");
+        Console.WriteLine($"Maior valor de faturamento: {maiorValor}");
         Console.WriteLine($"Número de dias com faturamento acima da média mensal: {diasAcimaDaMedia}");
     }
 }

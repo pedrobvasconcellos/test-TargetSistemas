@@ -34,7 +34,7 @@
               "RelativeDocumentMoniker": "..\\questao_3\\Program.cs",
               "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\teste-target\\questao_3\\Program.cs",
               "RelativeToolTip": "..\\questao_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T19:58:49.238Z",
               "EditorCaption": ""
@@ -42,15 +42,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "questao_1",
+              "Title": "questao_1.csproj",
               "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\teste-target\\questao_1\\questao_1\\questao_1.csproj",
               "RelativeDocumentMoniker": "questao_1\\questao_1.csproj",
               "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\teste-target\\questao_1\\questao_1\\questao_1.csproj",
               "RelativeToolTip": "questao_1\\questao_1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-03T19:28:40.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T19:28:40.205Z"
             },
             {
               "$type": "Document",
@@ -62,8 +61,7 @@
               "RelativeToolTip": "..\\questao_2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T19:16:53.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T19:16:53.398Z"
             },
             {
               "$type": "Document",
@@ -75,12 +73,7 @@
               "RelativeToolTip": "questao_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T19:10:10.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-09-03T19:10:10.612Z"
             }
           ]
         }
