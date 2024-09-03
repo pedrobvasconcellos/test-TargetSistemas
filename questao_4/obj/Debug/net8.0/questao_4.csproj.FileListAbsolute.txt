@@ -1,0 +1,15 @@
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\bin\Debug\net8.0\questao_4.exe
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\bin\Debug\net8.0\questao_4.deps.json
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\bin\Debug\net8.0\questao_4.runtimeconfig.json
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\bin\Debug\net8.0\questao_4.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\bin\Debug\net8.0\questao_4.pdb
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\obj\Debug\net8.0\questao_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\obj\Debug\net8.0\questao_4.AssemblyInfoInputs.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\obj\Debug\net8.0\questao_4.AssemblyInfo.cs
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\obj\Debug\net8.0\questao_4.csproj.CoreCompileInputs.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\obj\Debug\net8.0\questao_4.sourcelink.json
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\obj\Debug\net8.0\questao_4.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\obj\Debug\net8.0\refint\questao_4.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\obj\Debug\net8.0\questao_4.pdb
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\obj\Debug\net8.0\questao_4.genruntimeconfig.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_4\obj\Debug\net8.0\ref\questao_4.dll
