@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\teste-target\\questao_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7C80E9-380A-4AF9-AC5F-AD345A27FE23}|..\\questao_3\\questao_3.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\teste-target\\questao_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C6F205-A7E7-4E29-AF80-5E0D68FB6FBE}|..\\questao_2\\questao_2.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\teste-target\\questao_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D2B8B4-7FBE-4D53-A71D-265BC5929EE2}|questao_1\\questao_1.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\teste-target\\questao_1\\questao_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D2B8B4-7FBE-4D53-A71D-265BC5929EE2}|questao_1\\questao_1.csproj|solutionrelative:questao_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D2B8B4-7FBE-4D53-A71D-265BC5929EE2}|questao_1\\questao_1.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\teste-target\\questao_1\\questao_1\\questao_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7D2B8B4-7FBE-4D53-A71D-265BC5929EE2}|questao_1\\questao_1.csproj|solutionrelative:questao_1\\questao_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\teste-target\\questao_3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\questao_3\\Program.cs",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\teste-target\\questao_3\\Program.cs",
+              "RelativeToolTip": "..\\questao_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:58:49.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "questao_1",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\teste-target\\questao_1\\questao_1\\questao_1.csproj",
+              "RelativeDocumentMoniker": "questao_1\\questao_1.csproj",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\teste-target\\questao_1\\questao_1\\questao_1.csproj",
+              "RelativeToolTip": "questao_1\\questao_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T19:28:40.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\teste-target\\questao_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\questao_2\\Program.cs",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\teste-target\\questao_2\\Program.cs",
+              "RelativeToolTip": "..\\questao_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:16:53.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\teste-target\\questao_1\\questao_1\\Program.cs",
+              "RelativeDocumentMoniker": "questao_1\\Program.cs",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\teste-target\\questao_1\\questao_1\\Program.cs",
+              "RelativeToolTip": "questao_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:10:10.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

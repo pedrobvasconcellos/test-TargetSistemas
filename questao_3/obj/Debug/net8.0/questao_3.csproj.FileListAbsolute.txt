@@ -1,0 +1,14 @@
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\bin\Debug\net8.0\questao_3.exe
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\bin\Debug\net8.0\questao_3.deps.json
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\bin\Debug\net8.0\questao_3.runtimeconfig.json
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\bin\Debug\net8.0\questao_3.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\bin\Debug\net8.0\questao_3.pdb
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\obj\Debug\net8.0\questao_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\obj\Debug\net8.0\questao_3.AssemblyInfoInputs.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\obj\Debug\net8.0\questao_3.AssemblyInfo.cs
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\obj\Debug\net8.0\questao_3.csproj.CoreCompileInputs.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\obj\Debug\net8.0\questao_3.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\obj\Debug\net8.0\refint\questao_3.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\obj\Debug\net8.0\questao_3.pdb
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\obj\Debug\net8.0\questao_3.genruntimeconfig.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\teste-target\questao_3\obj\Debug\net8.0\ref\questao_3.dll
